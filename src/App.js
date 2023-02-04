@@ -119,7 +119,7 @@ useEffect(() => {
  return (
    <div className="App">
      <header>
-       <h1>pleb wallet</h1>
+       <h1>Motoscale Wallet</h1>
      </header>
      <Buttons />
      <div className="row">
@@ -139,7 +139,7 @@ useEffect(() => {
        <div className="row-item"><Chart chartData={chartData} /></div>
      </div>
      <footer>
-       <p>Made by plebs, for plebs.</p>
+       <p>Made by Logscale. For sovereigns.</p>
      </footer>
    </div>
  );
